@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1725555025 source:f:\programming\c\mini projects\university data base\main.c
+	<stdio.h>
+	<stdlib.h>
+	"uni_db.h"
+
+1725558379 f:\programming\c\mini projects\university data base\uni_db.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Platform_Types.h"
+
+1725558037 source:f:\programming\c\mini projects\university data base\uni_db.c
+	"uni_db.h"
+
+1725534466 f:\programming\c\mini projects\university data base\platform_types.h
+
